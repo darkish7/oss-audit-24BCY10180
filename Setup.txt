@@ -1,0 +1,15 @@
+1. Install any distro of Linux [kali Linux , Ubuntu , Pear os] on your pc. You can run Linux in following ways
+     a. Virtual machine
+     b. WSL2
+     c. Dual boot
+2. Download and install the software recommended to you
+3. Download all the .sh file of the software which is recommended to you 
+4. Using text editor change your name and roll no in the .sh files
+5. Go to your Linux terminal and navigate to the downloads folder using [ cd Downloads ] command
+6. Run the .sh file one by one using command
+   a.  "chmod +x filename.sh"
+   b.  "./filename.sh"
+7. Take a screenshot of running script 
+8. Paste the screenshot in Report file provided 
+9. Make the required changes in Readme.md file
+10. Create a GitHub repo and add all .sh files and a readme.md file to it

@@ -1,0 +1,10 @@
+echo "INFO: System started successfully." > test.log
+echo "WARNING: Disk space running low on /home." >> test.log
+echo "ERROR: Failed to load Python 3 module." >> test.log
+echo "INFO: User hitesh logged in." >> test.log
+echo "ERROR: Network connection timeout." >> test.log
+echo "ERROR: Database locked." >> test.log
+echo "INFO: Routine backup complete." >> test.log
+echo "ERROR: Memory limit exceeded." >> test.log
+echo "WARNING: CPU temperature high." >> test.log
+echo "ERROR: Apache service crashed." >> test.log

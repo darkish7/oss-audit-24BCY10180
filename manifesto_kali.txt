@@ -1,0 +1,25 @@
+============================================================
+         MY OPEN SOURCE MANIFESTO                          
+  Generated on: 30 March 2026                                      
+  Author: kali                                        
+============================================================
+
+  Every day, I rely on Git — a tool built not for profit,
+  but for people. It was created by individuals who believed
+  that knowledge and code should be shared, not hoarded.
+
+  To me, freedom means sacrifice. And in the world of software,
+  that freedom is made real through open source — the right
+  to read the code, to change it, to share it, and to build
+  on the work of those who came before.
+
+  I believe in this philosophy enough that I would build
+  version control tool and share it freely with the world — because the
+  software I depend on today exists because someone else
+  made that same choice before me.
+
+  Open source is not just a license. It is a promise:
+  that what we build together belongs to all of us.
+
+  — kali, 30 March 2026
+============================================================
